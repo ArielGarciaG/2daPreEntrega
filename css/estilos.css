@@ -1,0 +1,39 @@
+
+h1{
+    color: rgba(68, 43, 6, 0.952);
+}
+*{
+    margin: 0;
+    padding:0;
+}
+.listaNavegacion{
+    list-style: none;
+}
+.linkNav{
+    color: black;
+    text-decoration: none;
+}
+.fondo{
+    background-image: url("../assets/img/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.centrar{
+    text-align: center;
+}
+.fuenteGrande{
+    font-size: 3rem;
+}
+.fuenteMediana{
+    font-size: 22px;
+}
+body{
+    font-family: 'roboto', sans-serif;
+    font-family: 'work Sans', sans-serif;
+    font-weight: 400;
+}
+.header{
+     height: 100vh;
+     background-color: rgb(221, 128, 22);
+}
